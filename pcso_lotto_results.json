@@ -1,5 +1,68 @@
 [
   {
+    "game": "Mega Lotto 6/45",
+    "date": "2026-07-27",
+    "combination": "14-42-34-26-05-37",
+    "jackpot": "15,000,000.00",
+    "winners": "0"
+  },
+  {
+    "game": "Grand Lotto 6/55",
+    "date": "2026-07-27",
+    "combination": "06-53-42-49-55-46",
+    "jackpot": "97,179,402.15",
+    "winners": "0"
+  },
+  {
+    "game": "4D Lotto",
+    "date": "2026-07-27",
+    "combination": "9-1-9-5",
+    "jackpot": "46,216.00",
+    "winners": "20"
+  },
+  {
+    "game": "3D Lotto 9PM",
+    "date": "2026-07-27",
+    "combination": "3-2-6",
+    "jackpot": "4,500.00",
+    "winners": "437"
+  },
+  {
+    "game": "3D Lotto 5PM",
+    "date": "2026-07-27",
+    "combination": "5-1-3",
+    "jackpot": "4,500.00",
+    "winners": "240"
+  },
+  {
+    "game": "3D Lotto 2PM",
+    "date": "2026-07-27",
+    "combination": "6-1-2",
+    "jackpot": "4,500.00",
+    "winners": "339"
+  },
+  {
+    "game": "2D Lotto 9PM",
+    "date": "2026-07-27",
+    "combination": "14-25",
+    "jackpot": "4,000.00",
+    "winners": "173"
+  },
+  {
+    "game": "2D Lotto 5PM",
+    "date": "2026-07-27",
+    "combination": "04-12",
+    "jackpot": "4,000.00",
+    "winners": "129"
+  },
+  {
+    "game": "2D Lotto 2PM",
+    "date": "2026-07-27",
+    "combination": "29-24",
+    "jackpot": "4,000.00",
+    "winners": "48"
+  },
+  {
     "game": "Ultra Lotto 6/58",
     "date": "2026-07-26",
     "combination": "50-11-30-44-33-07",
