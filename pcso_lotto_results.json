@@ -1,5 +1,68 @@
 [
   {
+    "game": "Lotto 6/42",
+    "date": "2026-10-03",
+    "combination": "41-17-42-21-37-02",
+    "jackpot": "75,904,990.52",
+    "winners": "0"
+  },
+  {
+    "game": "Grand Lotto 6/55",
+    "date": "2026-10-03",
+    "combination": "11-23-36-20-29-50",
+    "jackpot": "242,626,497.89",
+    "winners": "0"
+  },
+  {
+    "game": "6D Lotto",
+    "date": "2026-10-03",
+    "combination": "6-2-2-7-4-1",
+    "jackpot": "1,085,236.00",
+    "winners": "0"
+  },
+  {
+    "game": "3D Lotto 9PM",
+    "date": "2026-10-03",
+    "combination": "9-9-6",
+    "jackpot": "4,500.00",
+    "winners": "450"
+  },
+  {
+    "game": "3D Lotto 5PM",
+    "date": "2026-10-03",
+    "combination": "9-7-9",
+    "jackpot": "4,500.00",
+    "winners": "83"
+  },
+  {
+    "game": "3D Lotto 2PM",
+    "date": "2026-10-03",
+    "combination": "5-9-6",
+    "jackpot": "4,500.00",
+    "winners": "118"
+  },
+  {
+    "game": "2D Lotto 9PM",
+    "date": "2026-10-03",
+    "combination": "31-24",
+    "jackpot": "4,000.00",
+    "winners": "170"
+  },
+  {
+    "game": "2D Lotto 5PM",
+    "date": "2026-10-03",
+    "combination": "13-23",
+    "jackpot": "4,000.00",
+    "winners": "153"
+  },
+  {
+    "game": "2D Lotto 2PM",
+    "date": "2026-10-03",
+    "combination": "09-28",
+    "jackpot": "4,000.00",
+    "winners": "609"
+  },
+  {
     "game": "Ultra Lotto 6/58",
     "date": "2026-10-02",
     "combination": "58-52-34-29-11-32",
